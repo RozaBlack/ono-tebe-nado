@@ -34,7 +34,7 @@
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 3.5px;
-  text-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .header__links-list-item_no-bullit {
