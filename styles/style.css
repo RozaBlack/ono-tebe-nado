@@ -1,7 +1,7 @@
 .header,
 .main,
 .footer {
-  font-family: Raleway, sans-serif;
+  font-family: Raleway, 'Arial', sans-serif;
   font-weight: normal;
   font-display: swap;
 }
@@ -147,7 +147,7 @@
   padding: 12px 32px 11px 31px;
   color: #ffffff;
 
-  font-family: inherit, sans-serif;
+  font-family: inherit, 'Arial', sans-serif;
 
   font-weight: 500;
   font-size: 22px;
